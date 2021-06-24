@@ -1,0 +1,3 @@
+integrator:
+  sharding: 1-50
+

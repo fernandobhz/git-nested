@@ -1,0 +1,7 @@
+integrators:
+  - meta: a
+    sharding: 1-256
+    timeout: 600_000
+  - meta: b
+    sharding: 1-256
+    timeout: 600_000
